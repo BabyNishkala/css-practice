@@ -1,0 +1,21 @@
+img{
+    filter: blur(10px);
+}
+img:active{
+    filter:none;
+}
+img{
+    filter:brightness(100%);
+}
+img{
+    filter:contrast(10%);
+} 
+img{
+    filter: drop-shadow(10%);
+}
+img{
+    filter:invert(10%);
+}
+img:hover{
+    filter:grayscale(10%);
+}
